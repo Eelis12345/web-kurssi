@@ -1,0 +1,19 @@
+body
+{
+    background-color: rgb(241, 240, 244);
+}
+h1
+{
+    text-align: center;
+    color: rgb(26, 26, 60);
+}
+p
+{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li
+{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
